@@ -31,3 +31,5 @@
 | shadcn-datatable-alpha       | Démo interactive de tableaux de données avancés avec shadcn/ui, intégrant tri, pagination, recherche, filtrage, etc. | [🔗](https://shadcn-datatable-alpha.vercel.app/) |
 | shadcn-form playground       | Interface interactive pour tester et générer des formulaires basés sur zod et react-hook-form avec shadcn/ui. Idéal pour prototyper rapidement. | [🔗](https://www.shadcn-form.com/playground) |
 | TweakCN Theme Editor         | Éditeur visuel pour personnaliser facilement les thèmes shadcn/ui avec Tailwind CSS. Permet de modifier les tokens et exporter le code. | [🔗](https://tweakcn.com/editor/theme) |
+| Bundui                      | Plateforme de génération d'interfaces basée sur shadcn/ui. Permet de configurer, visualiser et exporter des composants en quelques clics. | [🔗](https://bundui.io/) |
+| Extend UI                   | Collection de composants shadcn/ui pré-construits et extensibles avec une interface web pour copier-coller rapidement dans vos projets. | [🔗](https://www.extend-ui.com/) |
