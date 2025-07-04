@@ -7,7 +7,7 @@
 
 <p align="center">
 <br>
-  Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement ✨
+  Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement 
 </p>
 
 <p align="center">
