@@ -19,7 +19,7 @@
 
 ## 🎨 Librairies basées sur shadcn/ui
 
-| Nom de la librairie | Description                                                                                             | Lien       |
+| Nom  | Description                                                                                             | Lien       |
 |---------------------|---------------------------------------------------------------------------------------------------------|------------|
 | shadcn-ui           | Librairie de composants UI moderne, accessible et stylée, basée sur Radix UI et Tailwind CSS. Très personnalisable. | [🔗](https://ui.shadcn.com) |
 | aceternity-ui       | Bibliothèque de composants React populaires (shadcn-style), prêts à l’emploi, sans se soucier du style ou des animations. | [🔗](https://ui.aceternity.com) |
