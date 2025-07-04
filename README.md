@@ -1,10 +1,8 @@
 <p align="center">
   <img width="200" src="./assets/logo.png" alt="logo toolbox">
-
 </p>
 
-<h1 align="center">Outils magiques pour développeurs</h1>1>
-
+<h1 align="center">Outils magiques pour développeurs</h1>
 <p align="center">
 <br>
   Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement ✨
@@ -19,4 +17,3 @@
 </p>
 
 ---
-
