@@ -21,7 +21,6 @@
 
 | Nom            | Description                                                                                             | Lien       |
 |----------------|---------------------------------------------------------------------------------------------------------|------------|
-| 21st.dev       | Librairie open source compatible avec shadcn/ui. Permet d’installer ou de publier facilement des composants via CLI. | [🔗](https://21st.dev) |
-| 8bitcn.com     | Composants au style rétro, accessibles et réutilisables, inspirés de shadcn/ui. Plateforme open source. | [🔗](https://8bitcn.com) |
+| shadcn/ui      | Librairie de composants UI moderne, accessible et stylée, basée sur Radix UI et Tailwind CSS. Très personnalisable. | [🔗](https://ui.shadcn.com) |
 | aceternity-ui  | Bibliothèque de composants React populaires (shadcn-style), prêts à l’emploi, sans se soucier du style ou des animations. | [🔗](https://ui.aceternity.com) |
 
