@@ -26,4 +26,5 @@
 | magicui             | Librairie de composants animés et interactifs, basée sur shadcn/ui et framer-motion. Parfait pour des interfaces dynamiques et modernes. | [🔗](https://magicui.design) |
 | origin-ui           | Collection de composants accessibles et élégants, basée sur shadcn/ui. Intègre des animations, thèmes sombres/clairs, et une belle documentation. | [🔗](https://originui.com/) |
 | cult-ui             | Collection de composants UI sombres et élégants inspirés de shadcn/ui. Design original, prêt à l’emploi, avec une esthétique "edgy". | [🔗](https://www.cult-ui.com/) |
-
+| shadcn-extension             | Interface web permettant de parcourir, prévisualiser et copier des composants shadcn/ui sans passer par la CLI. Très pratique et ergonomique. | [🔗](https://shadcn-extension.vercel.app/) |
+| shadcn-datatable-alpha       | Démo interactive de tableaux de données avancés avec shadcn/ui, intégrant tri, pagination, recherche, filtrage, etc. | [🔗](https://shadcn-datatable-alpha.vercel.app/) |
