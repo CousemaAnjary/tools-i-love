@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">✨ tools-i-love</h1>
+<h1 align="center">Outils magiques pour développeurs</h1>1>
 
 <p align="center">
 <br>
