@@ -6,7 +6,7 @@
 <h1 align="center">✨ tools-i-love</h1>
 
 <p align="center">
-  <b>Une collection personnelle et soigneusement sélectionnée d’outils, de frameworks et de ressources que j’adore utiliser.</b><br>
+<br>
   Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement ✨
 </p>
 
