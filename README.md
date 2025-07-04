@@ -24,6 +24,6 @@
 | shadcn-ui           | Librairie de composants UI moderne, accessible et stylée, basée sur Radix UI et Tailwind CSS. Très personnalisable. | [🔗](https://ui.shadcn.com) |
 | aceternity-ui       | Bibliothèque de composants React populaires (shadcn-style), prêts à l’emploi, sans se soucier du style ou des animations. | [🔗](https://ui.aceternity.com) |
 | magicui             | Librairie de composants animés et interactifs, basée sur shadcn/ui et framer-motion. Parfait pour des interfaces dynamiques et modernes. | [🔗](https://magicui.design) |
-| origin-ui           | Collection de composants accessibles et élégants, basée sur shadcn/ui. Intègre des animations, thèmes sombres/clairs, et une belle documentation. | [🔗](https://www.originui.dev/) |
+| origin-ui           | Collection de composants accessibles et élégants, basée sur shadcn/ui. Intègre des animations, thèmes sombres/clairs, et une belle documentation. | [🔗](https://originui.com/) |
 
 
