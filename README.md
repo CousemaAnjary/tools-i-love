@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/github/explore/main/topics/toolbox/toolbox.png" alt="logo toolbox">
+  <img width="200" src="./assets/logo.png" alt="logo toolbox">
 
 </p>
 
@@ -7,7 +7,7 @@
 
 <p align="center">
 <br>
-  Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement 
+  Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement ✨
 </p>
 
 <p align="center">
