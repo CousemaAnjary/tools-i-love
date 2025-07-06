@@ -19,7 +19,7 @@
 
 ### 🧩 **Composants UI prêts à l’emploi**
 
-| Nom de la ressource	 | Description | Lien |
+| Ressource	 | Description | Lien |
 |-----|-------------|------|
 | shadcn-ui | Composants UI modernes, accessibles et stylés. Basé sur Radix UI + Tailwind CSS. | [🔗](https://ui.shadcn.com) |
 | aceternity-ui | Composants React populaires (style shadcn) sans configuration nécessaire. | [🔗](https://ui.aceternity.com) |
