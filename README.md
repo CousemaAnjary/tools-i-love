@@ -5,7 +5,7 @@
 <!-- <h1 align="center">Mon coffre à outils de dev</h1> -->
 <p align="center">
 <br>
-  Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement ✨
+ ✨ Pour plus de productivité, de créativité et un code plus propre — mise à jour régulièrement ✨
 </p>
 <!-- <p align="center">
   <a href="#-ui--design">🎨 UI & Design</a> •
