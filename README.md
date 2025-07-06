@@ -36,4 +36,4 @@
 ### 🎨 **Thèmes & Personnalisation**
 | Nom&nbsp;de&nbsp;la&nbsp;ressource | Description | Lien |
 |-----|-------------|------|
-| TweakCN Theme | Éditeur visuel complet pour personnaliser les thèmes shadcn avec Tailwind CSS. Il permet de modifier facilement les couleurs, typographies, etc | [🔗](https://tweakcn.com/editor/theme) |
+| TweakCN Theme | Éditeur visuel pour personnaliser les thèmes shadcn avec Tailwind CSS. Couleurs, typographies, rayons, etc. | [🔗](https://tweakcn.com/editor/theme) |
