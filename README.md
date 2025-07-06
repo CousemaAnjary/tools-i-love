@@ -21,7 +21,7 @@
 
 | Nom | Description | Lien |
 |-----|-------------|------|
-| shadcn-ui – Composants UI de base officiels | Composants UI modernes, accessibles et stylés. Basé sur Radix UI + Tailwind CSS. | [🔗](https://ui.shadcn.com) |
+| shadcn-ui             | Composants UI modernes, accessibles et stylés. Basé sur Radix UI + Tailwind CSS. | [🔗](https://ui.shadcn.com) |
 | aceternity-ui | Composants React populaires (style shadcn) sans configuration nécessaire. | [🔗](https://ui.aceternity.com) |
 | magicui | Composants animés et interactifs (shadcn + framer-motion). Interfaces dynamiques. | [🔗](https://magicui.design) |
 | Berlix | UI élégante et puissante, interactions fluides, esthétique raffinée. | [🔗](https://berlix.vercel.app/) |
