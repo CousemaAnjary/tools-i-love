@@ -39,3 +39,4 @@
 | Nom&nbsp;de&nbsp;la&nbsp;ressource           | Description                                                                                          | Lien |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------|------|
 | TweakCN Theme                                | Éditeur visuel pour personnaliser les thèmes shadcn avec Tailwind CSS.                              | [🔗](https://tweakcn.com/editor/theme) |
+| &nbsp;                                       | &nbsp;                                                                                               | &nbsp; |
