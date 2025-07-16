@@ -30,6 +30,7 @@
 | Extend UI | Composants shadcn pré-construits, extensibles et copiables via une UI. | [🔗](https://www.extend-ui.com/) |
 | Extension | Interface web pour explorer et copier des composants shadcn sans la CLI. | [🔗](https://shadcn-extension.vercel.app/) |
 | Bund UI | Générateur visuel d'interfaces shadcn/ui : configurer, visualiser, exporter. | [🔗](https://bundui.io/) |
+| Skiper UI |	Librairie moderne de composants React/Tailwind. Design clair, pro, facile à intégrer. |	[🔗](https://skiper-ui.com/) |
 
 ---
 
