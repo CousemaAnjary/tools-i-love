@@ -38,3 +38,10 @@
 | Nom&nbsp;de&nbsp;la&nbsp;ressource | Description | Lien |
 |-----|-------------|------|
 | TweakCN Theme | Éditeur visuel pour personnaliser les thèmes shadcn avec Tailwind CSS. Couleurs, typographies, rayons, etc. | [🔗](https://tweakcn.com/editor/theme) |
+
+---
+
+### 🤖 **IA de génération de sites web**
+| Nom&nbsp;de&nbsp;la&nbsp;ressource | Description | Lien |
+|-----|-------------|------|
+| Bold | Générateur de sites web propulsé par l’IA. Design professionnel en quelques clics, prêt à publier. | [🔗](https://bolt.new/) |
