@@ -45,3 +45,4 @@
 | Nom&nbsp;de&nbsp;la&nbsp;ressource | Description | Lien |
 |-----|-------------|------|
 | Bold | Générateur de sites web propulsé par l’IA. Design professionnel en quelques clics, prêt à publier. | [🔗](https://bolt.new/) |
+| Lovable | 	Crée des sites web esthétiques à partir d’une simple idée ou prompt. Idéal pour les portefeuilles et landing pages. | [🔗](https://lovable.dev/) |
