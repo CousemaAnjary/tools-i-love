@@ -34,10 +34,14 @@
 
 ---
 
-### 🎨 **Thèmes & Personnalisation**
+### 🎨 **Palettes & Couleurs & Personnalisation**
 | Nom&nbsp;de&nbsp;la&nbsp;ressource | Description | Lien |
 |-----|-------------|------|
+| Coolors | Générateur rapide de palettes de couleurs harmonieuses. Très populaire. | [🔗](https://coolors.co/) |
+| Realtime Colors | Visualisation en temps réel des couleurs appliquées à une interface. | [🔗](https://www.realtimecolors.com/) |
 | TweakCN Theme | Éditeur visuel pour personnaliser les thèmes shadcn avec Tailwind CSS. Couleurs, typographies, rayons, etc. | [🔗](https://tweakcn.com/editor/theme) |
+| Happy Hues | Palettes de couleurs testées sur UI avec aperçus en temps réel. | [🔗](https://www.happyhues.co/palettes/15) |
+| PaletteMaker | Crée et ajuste facilement des palettes. Options UX très utiles. | [🔗](https://palettemaker.com/) |
 
 ---
 
